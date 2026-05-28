@@ -1,0 +1,32 @@
+aid: thirukkural
+name: Thirukkural
+description: "1330 Thirukkural poems and explanation in Tamil and English"
+url: https://api-thirukkural.web.app/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Books"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Books
+  - Public APIs
+apis:
+  - name: Thirukkural
+    description: "1330 Thirukkural poems and explanation in Tamil and English"
+    humanURL: https://api-thirukkural.web.app/
+    baseURL: https://api-thirukkural.web.app/
+    tags:
+      - Books
+    properties:
+      - type: Documentation
+        url: https://api-thirukkural.web.app/
+common:
+  - type: Website
+    url: https://api-thirukkural.web.app/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
