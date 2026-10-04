@@ -39,7 +39,6 @@ apis:
   - name: Thirukkural
     description: "1330 Thirukkural poems and explanation in Tamil and English"
     humanURL: https://api-thirukkural.web.app/
-    baseURL: https://api-thirukkural.web.app/
     tags:
       - Books
     properties:
